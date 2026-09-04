@@ -5415,6 +5415,7 @@
       "sequenceLoaded": "Sequenz geladen — im Sequenzer prüfen und starten",
       "unknownError": "unbekannter Fehler"
     },
-    "notDetected": "Perihelion-Plugin nicht gefunden. Installiere das Perihelion-Plugin, um diese Seite zu nutzen."
+    "notDetected": "Perihelion-Plugin nicht gefunden. Installiere das Perihelion-Plugin, um diese Seite zu nutzen.",
+    "notSupportedOnNina": "Perihelion unterstützt derzeit nur PINS, nicht Windows NINA."
   }
 }
